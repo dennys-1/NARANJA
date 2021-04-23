@@ -1,1 +1,84 @@
-<p>Hola a carta</p>
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://kit.fontawesome.com/464243d498.js" crossorigin="anonymous"></script>
+   
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - NARANJA - ADMINISTRADOR</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+    
+</head>
+<style>
+    header{background-color: black;}
+</style>
+<header>
+    <div style="text-align:center">
+        <img src="D:\Universidad San Martin de Porres\2021-1\PROGRAMACION 1\lab\Administrador\NARANJA\wwwroot\img\logo.png" alt="...">
+    </div>
+</header>
+<body >
+    
+<div style="text-align: center;">
+
+    <div >
+     <img src="D:\Universidad San Martin de Porres\2021-1\PROGRAMACION 1\lab\Administrador\NARANJA\wwwroot\img\mantel.jpg" alt="...">
+    <div >
+        <img src="D:\Universidad San Martin de Porres\2021-1\PROGRAMACION 1\lab\Administrador\NARANJA\wwwroot\img\salchipap.jpg" alt="..." width="200" height="200">
+    </div>
+    <div style="padding-bottom: -100px; bottom: 500px;">
+    <h1>SalchiPapas</h1>
+    <h2>Papas freidas en dos tiempo, con salchichas de primera calidad y cremas variadas</h2>
+    <button style="font-size:20px;
+    font-family:Roboto Slab;
+    font-weight:bold;
+    color:white;
+    background:#000000;
+    border:0px;
+    width:150px;
+    height:30px; border-radius:35px">MODIFICAR</button>
+    </div>
+    
+    
+</div>
+</div>
+    
+</body>
+<footer id="foot" style="background-color: rgb(187, 177, 177); text-align:center " >
+    <div class="container">
+         <div class="contenedor-footer">
+        <div class="content-foo">
+            <h4>Telefono</h4>
+            <p>987654321</p>
+        </div>
+        <div class="content-foo">
+            <h4>Email</h4>
+            <p>Computec@gmail.com</p>
+        </div>
+        <div class="content-foo">
+            <h4>Localización</h4>
+            <p>Av. Ejército 793, Cayma, Arequipa</p>
+        </div>
+        <div class="content-foo">
+            <h4>Redes sociales</h4>
+            <div class="social-media">
+                <i class="fab fa-facebook-f"></i>
+                <i class="fab fa-twitter"></i>
+                <i class="fab fa-instagram"></i>
+                <i class="fab fa-youtube"></i>
+            </div>
+        </div>
+    </div>
+    
+       <p id="foot1" class="text-center"> &copy; 2021 - NARANJA - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></p>
+    </div>
+</footer>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</html>
