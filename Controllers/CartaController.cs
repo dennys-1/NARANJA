@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -9,29 +9,21 @@ using NARANJA.Models;
 
 namespace NARANJA.Controllers
 {
-    public class HomeController : Controller
+    public class CartaController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly ILogger<CartaController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public CartaController(ILogger<CartaController> logger)
         {
             _logger = logger;
-        }
-
-        public IActionResult Index()
-        {
-            return View();
         }
 
         public IActionResult Carta()
         {
             return View();
         }
-        public IActionResult Nosotros()
-        {
-            return View();
-        }
 
+      
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
