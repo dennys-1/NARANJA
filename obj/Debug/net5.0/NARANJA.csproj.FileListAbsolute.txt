@@ -81,3 +81,4 @@ D:\USMP-2021-1\pro lab\Proyecto tia veneno\NARANJA\obj\Debug\net5.0\ref\NARANJA.
 D:\USMP-2021-1\pro lab\Proyecto tia veneno\NARANJA\obj\Debug\net5.0\NARANJA.pdb
 D:\USMP-2021-1\pro lab\Proyecto tia veneno\NARANJA\obj\Debug\net5.0\NARANJA.genruntimeconfig.cache
 D:\USMP-2021-1\pro lab\Proyecto tia veneno\NARANJA\obj\Debug\net5.0\Razor\Views\Cartas\Carta.cshtml.g.cs
+D:\USMP-2021-1\pro lab\Proyecto tia veneno\NARANJA\obj\Debug\net5.0\Razor\Views\Administrador\Perfil.cshtml.g.cs

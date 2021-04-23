@@ -15659,6 +15659,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyecto tia veneno\\NARANJA\\Views\\Administrador\\Perfil.cshtml",
+      "TargetPath": "Views\\Administrador\\Perfil.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyecto tia veneno\\NARANJA\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
