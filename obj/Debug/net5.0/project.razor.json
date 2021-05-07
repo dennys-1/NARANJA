@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\NARANJA.csproj",
+  "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,118 +15619,128 @@
   "RootNamespace": "NARANJA",
   "Documents": [
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\BoletaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\BoletaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Reservas.cshtml",
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Administrador\\Reservas.cshtml",
       "TargetPath": "Views\\Administrador\\Reservas.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Carta.cshtml",
-      "TargetPath": "Views\\Administrador\\Carta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\PagoCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\PagoCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Miperfil.cshtml",
-      "TargetPath": "Views\\Administrador\\Miperfil.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\OfertaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\OfertaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\CartaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\CartaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Combos.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Combos.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\EspecialidadesCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\EspecialidadesCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\ReservaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\ReservaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Carta.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Carta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Especialidades.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Especialidades.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Horario.cshtml",
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Shared\\_LayoutAdministrador.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutAdministrador.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Administrador\\Miperfil.cshtml",
+      "TargetPath": "Views\\Administrador\\Miperfil.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\EspecialidadesCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\EspecialidadesCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\Combo.cshtml",
+      "TargetPath": "Views\\Cliente\\Combo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\No-Cliente\\Carta.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Carta.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\ReservaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\ReservaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Administrador\\Horario.cshtml",
       "TargetPath": "Views\\Administrador\\Horario.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\Combo.cshtml",
-      "TargetPath": "Views\\Cliente\\Combo.cshtml",
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\No-Cliente\\Especialidades.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Especialidades.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\BoletaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\BoletaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\CartaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\CartaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\PagoCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\PagoCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Administrador\\Index.cshtml",
+      "TargetPath": "Views\\Administrador\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\No-Cliente\\Combos.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Combos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Cliente\\OfertaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\OfertaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\Views\\Administrador\\Carta.cshtml",
+      "TargetPath": "Views\\Administrador\\Carta.cshtml",
       "FileKind": "mvc"
     }
   ],

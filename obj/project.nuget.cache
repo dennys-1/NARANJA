@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cE5UteX/qtb+Pg94oA7ZGs43pddflDWh9HrWIwHm0djP9zne18bCzvH8XnBQg8IZxdqFM0ssK+jqx8XPcbhJ9Q==",
+  "dgSpecHash": "JH1myVp0kMozXVyPZt3woBTlK0EPLBqEhB5altJ/alQbqvXojNFWiaMzIFr5lgnT9wexEFM0PmCfKxu0BHFNhQ==",
   "success": true,
-  "projectFilePath": "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\NARANJA.csproj",
+  "projectFilePath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dennys\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dennys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",

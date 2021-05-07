@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\NARANJA.csproj": {}
+    "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj": {}
   },
   "projects": {
-    "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\NARANJA.csproj": {
+    "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\NARANJA.csproj",
+        "projectUniqueName": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj",
         "projectName": "NARANJA",
-        "projectPath": "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\NARANJA.csproj",
+        "projectPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\NARANJA.csproj",
         "packagesPath": "C:\\Users\\Dennys\\.nuget\\packages\\",
-        "outputPath": "D:\\USMP-2021-1\\TIA VENENO\\NARANJA\\obj\\",
+        "outputPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\NARANJA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dennys\\AppData\\Roaming\\NuGet\\NuGet.Config"
