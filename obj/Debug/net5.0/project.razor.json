@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\NARANJA.csproj",
+  "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\NARANJA.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,118 +15619,123 @@
   "RootNamespace": "NARANJA",
   "Documents": [
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\BoletaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\BoletaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Reservas.cshtml",
-      "TargetPath": "Views\\Administrador\\Reservas.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Carta.cshtml",
-      "TargetPath": "Views\\Administrador\\Carta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\PagoCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\PagoCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Miperfil.cshtml",
-      "TargetPath": "Views\\Administrador\\Miperfil.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\OfertaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\OfertaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\CartaCliente.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\CartaCliente.cshtml",
       "TargetPath": "Views\\Cliente\\CartaCliente.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Combos.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Combos.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\BoletaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\BoletaCliente.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\EspecialidadesCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\EspecialidadesCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\ReservaCliente.cshtml",
-      "TargetPath": "Views\\Cliente\\ReservaCliente.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\Error.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Carta.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Carta.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\No-Cliente\\Carta.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Carta.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\No-Cliente\\Combos.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Combos.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\No-Cliente\\Especialidades.cshtml",
-      "TargetPath": "Views\\No-Cliente\\Especialidades.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Administrador\\Horario.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Administrador\\Horario.cshtml",
       "TargetPath": "Views\\Administrador\\Horario.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\USMP-2021-1\\pro lab\\Proyectotiaveneno\\NARANJA\\Views\\Cliente\\Combo.cshtml",
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Administrador\\Reservas.cshtml",
+      "TargetPath": "Views\\Administrador\\Reservas.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Administrador\\Carta.cshtml",
+      "TargetPath": "Views\\Administrador\\Carta.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\OfertaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\OfertaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Shared\\LayoutCliente.cshtml",
+      "TargetPath": "Views\\Shared\\LayoutCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\No-Cliente\\Especialidades.cshtml",
+      "TargetPath": "Views\\No-Cliente\\Especialidades.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\Combo.cshtml",
       "TargetPath": "Views\\Cliente\\Combo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\ReservaCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\ReservaCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Administrador\\Miperfil.cshtml",
+      "TargetPath": "Views\\Administrador\\Miperfil.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\PagoCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\PagoCliente.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\Views\\Cliente\\EspecialidadesCliente.cshtml",
+      "TargetPath": "Views\\Cliente\\EspecialidadesCliente.cshtml",
       "FileKind": "mvc"
     }
   ],
