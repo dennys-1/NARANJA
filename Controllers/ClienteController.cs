@@ -1,7 +1,9 @@
+using System;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace NARANJA.Controllers
+  
+  namespace NARANJA.Controllers
 {
     public class ClienteController : Controller
     {
@@ -11,15 +13,13 @@ namespace NARANJA.Controllers
         {
             _logger = logger;
         }
-
-        public IActionResult PagoCliente()
+    public IActionResult PagoCliente()
         {
             return View();
         }
-         public IActionResult BoletaCliente()
+     public IActionResult BoletaCliente()
         {
             return View();
         }
-       
     }
 }
