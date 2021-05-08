@@ -1459,11 +1459,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\NARANJA.csproj",
+      "projectUniqueName": "D:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\NARANJA.csproj",
       "projectName": "NARANJA",
-      "projectPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\NARANJA.csproj",
+      "projectPath": "D:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\NARANJA.csproj",
       "packagesPath": "C:\\Users\\Dennys\\.nuget\\packages\\",
-      "outputPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\obj\\",
+      "outputPath": "D:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dennys\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1532,13 +1532,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

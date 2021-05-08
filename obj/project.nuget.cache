@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/rr/Oh8c2T3EPnl9VaKe1LZvFSddZ9iclHEBtIIZq1nmqxJj4WxSJfs7jPmLWFs5b70HY1XOWTPv+YfUXJHQxw==",
+  "dgSpecHash": "pd8/smwmBweT+7NDZzsX0NuhDaO3A9JQxFBArprRO1E0lusQYWShPGcJHXW7SWp5bGGzsLDVJKBQ2aTYJOESJw==",
   "success": true,
-  "projectFilePath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\NARANJA.csproj",
+  "projectFilePath": "D:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\NARANJA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dennys\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dennys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.4\\microsoft.aspnetcore.cryptography.internal.5.0.4.nupkg.sha512",
@@ -44,12 +44,5 @@
     "C:\\Users\\Dennys\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
     "C:\\Users\\Dennys\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema al leer el archivo de caché D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\PRINCIPAL\\NARANJA\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }
