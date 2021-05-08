@@ -2,22 +2,29 @@
     ViewData["Title"] = "Home Page";
     Layout="_LayoutAdministrador";
 }
+<h1 class="text-center">Reservas</h1>
+<div id="buscador">
 
-
-<h1>Reservas</h1>
 <form action="" method="post" target="_blank">
   <p>
-    Busca un fecha: <input type="date" name="busquedacodigo" size="4" maxlength="4">
+    Busca por fecha: <input type="date" name="busquedacodigo" size="4" maxlength="4">
     <input type="submit" value="Buscar">
   </p>
 </form>
-<table>
-<thead>
-    <tr>
-      <th>Fecha</th>
-      <th>Motivo</th>
-      <th>Personas</th>
-      <th>algun plato especial</th>
-    </tr>
-  </thead>
-  </table>
+</div>
+
+  <div id="menu">
+    <p>Fecha</p>
+    <p>Motivo</p>
+    <p>Personas</p>
+    <p>Platos(opcional)</p>
+  </div>
+   <div class="cuadro">
+     
+   </div>
+<div id="Exportar">
+    <form method="POST" action="">
+    <button class="btn btn-primary" type="submit">
+       Exportar/Descargar
+    </form>
+</div>

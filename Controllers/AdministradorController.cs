@@ -38,9 +38,5 @@ namespace NARANJA.Controllers
         {
             return View();
         }
-        
-
-
-       
     }
 }
