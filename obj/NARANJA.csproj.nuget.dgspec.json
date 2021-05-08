@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\NARANJA.csproj": {}
+    "C:\\Users\\GIANCARLO\\Documents\\NARANJA\\NARANJA.csproj": {}
   },
   "projects": {
-    "G:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\NARANJA.csproj": {
+    "C:\\Users\\GIANCARLO\\Documents\\NARANJA\\NARANJA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\NARANJA.csproj",
+        "projectUniqueName": "C:\\Users\\GIANCARLO\\Documents\\NARANJA\\NARANJA.csproj",
         "projectName": "NARANJA",
-        "projectPath": "G:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\NARANJA.csproj",
-        "packagesPath": "C:\\Users\\USSER\\.nuget\\packages\\",
-        "outputPath": "G:\\UNIVERSIDAD SAN MARTIN DE PORRES\\2021-I\\PROGRAMACION I\\LABORATORIO\\PROYECTOS\\NARANJA\\obj\\",
+        "projectPath": "C:\\Users\\GIANCARLO\\Documents\\NARANJA\\NARANJA.csproj",
+        "packagesPath": "C:\\Users\\GIANCARLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GIANCARLO\\Documents\\NARANJA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USSER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\GIANCARLO\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
