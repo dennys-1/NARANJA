@@ -321,4 +321,8 @@ header .textos-header{
 #carrusel{
   margin: 25px;
 }
+.ubicanos{
+  display: flex;
+  justify-content: space-between;
+}
 
