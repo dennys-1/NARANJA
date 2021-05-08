@@ -134,12 +134,12 @@ a.navbar-brand {
   /***************************************************/
   header {
     width: 100%;
-    height: 100%;
+    height: 700px;
     background: #ef3b36;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, hsla(0, 0%, 51%, 0.39), hsla(0, 95%, 15%, 0.315)), url(../img/fondogeneral.jpg);
+    background: -webkit-linear-gradient(to right, hsla(0, 0%, 51%, 0.39), hsla(0, 95%, 15%, 0.315)), url(../img/logo.png);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, hsla(0, 0%, 45%, 0.329), hsla(0, 0%, 3%, 0.342)), url(../img/fondogeneral.jpg);
+    background: linear-gradient(to right, hsla(0, 0%, 45%, 0.329), hsla(0, 0%, 3%, 0.342)), url(../img/logo.png);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   
     background-size: 100% 100%;
@@ -214,4 +214,10 @@ a.navbar-brand {
   }
   #navegador{
     background: black;
+  }
+  .fondo
+  {
+    height: 100%;
+    width: 100%;
+    background: url(../img/fondogeneral.jpg);
   }
