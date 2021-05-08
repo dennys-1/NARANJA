@@ -21,5 +21,29 @@ using Microsoft.Extensions.Logging;
         {
             return View();
         }
+         public IActionResult CartaCliente()
+        {
+            return View();
+        }
+         public IActionResult Combo()
+        {
+            return View();
+        }
+         public IActionResult EspecialidadesCliente()
+        {
+            return View();
+        }
+         public IActionResult OfertaCliente()
+        {
+            return View();
+        }
+         public IActionResult ReservaCliente()
+        {
+            return View();
+        }
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }
