@@ -15679,6 +15679,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\Views\\Home\\Nosotros.cshtml",
+      "TargetPath": "Views\\Home\\Nosotros.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"

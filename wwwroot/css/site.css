@@ -308,3 +308,17 @@ header .textos-header{
    padding: 0px 20px;
    padding-bottom:28px;
 }
+
+/********* quienes somos*/
+.mision{
+  background-image: url(../img/fondo4.jpg);
+  display: flex;
+  justify-content: space-around;
+}
+.misionvision{
+  margin-bottom: 95px;
+}
+#carrusel{
+  margin: 25px;
+}
+

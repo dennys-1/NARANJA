@@ -687,3 +687,4 @@ D:\USMP-2021-1\pro lab\proyectoahorasi\Main\NARANJA\obj\Debug\net5.0\NARANJA.dll
 D:\USMP-2021-1\pro lab\proyectoahorasi\Main\NARANJA\obj\Debug\net5.0\ref\NARANJA.dll
 D:\USMP-2021-1\pro lab\proyectoahorasi\Main\NARANJA\obj\Debug\net5.0\NARANJA.pdb
 D:\USMP-2021-1\pro lab\proyectoahorasi\Main\NARANJA\obj\Debug\net5.0\NARANJA.genruntimeconfig.cache
+D:\USMP-2021-1\pro lab\proyectoahorasi\Main\NARANJA\obj\Debug\net5.0\Razor\Views\Home\Nosotros.cshtml.g.cs

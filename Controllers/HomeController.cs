@@ -21,6 +21,9 @@ namespace NARANJA.Controllers
         public IActionResult Index()
         {
             return View();
+        } public IActionResult Nosotros()
+        {
+            return View();
         }
 
         public IActionResult Privacy()
