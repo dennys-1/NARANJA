@@ -15664,6 +15664,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\Views\\Administrador\\Carta.cshtml",
+      "TargetPath": "Views\\Administrador\\Carta.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\pro lab\\proyectoahorasi\\Main\\NARANJA\\Views\\Cliente\\CartaCliente.cshtml",
       "TargetPath": "Views\\Cliente\\CartaCliente.cshtml",
       "FileKind": "mvc"
