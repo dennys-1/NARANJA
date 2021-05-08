@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script src="https://kit.fontawesome.com/464243d498.js" crossorigin="anonymous"></script>
@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - NARANJA</title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+    <link rel="stylesheet" href="~/css/cliente.css" />
     
 </head>
 <style>
@@ -19,22 +19,31 @@
     <header>
        <nav class="navbar fixed-top navbar-black bg-black navbar-expand-sm navbar-toggleable-sm   border-bottom box-shadow mb-3" id="navegador">
   
-            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between" id="lista">
+            <div class="navbar-collapse  d-sm-inline-flex justify-content-around" id="lista">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-white"  asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="BoletaCliente">Boleta</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white"  asp-area="" asp-controller="Administrador" asp-action="Carta">Carta</a>
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="CartaCliente">Carta</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white"  asp-area="" asp-controller="Home" asp-action="Nosotros">Nosotros</a>
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="Combo">Combos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="Index">Cliente</a>
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="EspecialidadesCliente">Especialidades</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="OfertaCliente">Ofertas</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="PagoCliente">Pago</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white"  asp-area="" asp-controller="Cliente" asp-action="ReservaCliente">Reserva</a>
                         </li>
                     </ul>
-                    <partial name="_LoginPartial" />
+                    
                 </div>
         </nav>
         
@@ -44,6 +53,11 @@
                     style="stroke: none; fill: #fff;"></path>
             </svg></div>
     </header>
+
+    <div class="fondo">
+
+    </div>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
