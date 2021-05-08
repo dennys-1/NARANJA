@@ -17,27 +17,15 @@ namespace NARANJA.Controllers
         {
             _logger = logger;
         }
-<<<<<<< HEAD
-=======
          public IActionResult Index()
         {
             return View();
         }
->>>>>>> f1c5185f045a36b16f5f94aae974ceef2e57a8b0
 
         public IActionResult Carta()
         {
             return View();
         }
-<<<<<<< HEAD
-
-               public IActionResult Error()
-        {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
-        }
-    }
-}
-=======
          public IActionResult Reservas()
         {
             return View();
@@ -52,4 +40,3 @@ namespace NARANJA.Controllers
         }
     }
 }
->>>>>>> f1c5185f045a36b16f5f94aae974ceef2e57a8b0

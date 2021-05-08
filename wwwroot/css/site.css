@@ -217,11 +217,10 @@ header .textos-header{
 #navegador{
   background: black;
 }
-<<<<<<< HEAD
 
 
 /***********************/
-=======
+
 /*************************Reservas Administrador**********************/
 .cuadro{
   border: 2px solid black;
@@ -246,4 +245,3 @@ header .textos-header{
   display: flex;
   justify-content: space-around;
 }
->>>>>>> f1c5185f045a36b16f5f94aae974ceef2e57a8b0
