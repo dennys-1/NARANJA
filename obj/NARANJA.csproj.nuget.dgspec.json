@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "D:\\NARANJA\\NARANJA.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GIANCARLO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+    "D:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\lab\\Administrador\\NARANJA\\NARANJA.csproj": {}
+  },
+  "projects": {
+    "D:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\lab\\Administrador\\NARANJA\\NARANJA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\lab\\Administrador\\NARANJA\\NARANJA.csproj",
+        "projectName": "NARANJA",
+        "projectPath": "D:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\lab\\Administrador\\NARANJA\\NARANJA.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\Universidad San Martin de Porres\\2021-1\\PROGRAMACION 1\\lab\\Administrador\\NARANJA\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 370f486a219967f4f221a28fa409012c05f62b3a
         ],
         "originalTargetFrameworks": [
           "net5.0"
