@@ -32,6 +32,20 @@ namespace NARANJA.Controllers
             ViewData["message"]="";
             return View(listreservas);
         }
+         [HttpGet]
+        public IActionResult CrearReserva()
+        {
+            return View();
+        }
+         [HttpPost]
+        public IActionResult CrearReserva(Reservas objReservas)
+        {
+            _context.Add(objReservas);
+            _context.SaveChanges();
+            ViewData["Message"] = "El contacto ya esta registrado";
+            return View();
+        }
+
         
     }
 }

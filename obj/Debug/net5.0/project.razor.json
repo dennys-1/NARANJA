@@ -15669,6 +15669,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\Views\\Reservas\\CrearReserva.cshtml",
+      "TargetPath": "Views\\Reservas\\CrearReserva.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\Views\\Home\\Nosotros.cshtml",
       "TargetPath": "Views\\Home\\Nosotros.cshtml",
       "FileKind": "mvc"
