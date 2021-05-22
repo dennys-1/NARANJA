@@ -15764,6 +15764,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\Views\\Platos\\Platos.cshtml",
+      "TargetPath": "Views\\Platos\\Platos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\Views\\Cliente\\PagoCliente.cshtml",
       "TargetPath": "Views\\Cliente\\PagoCliente.cshtml",
       "FileKind": "mvc"

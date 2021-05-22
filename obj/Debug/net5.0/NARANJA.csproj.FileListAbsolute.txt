@@ -1000,3 +1000,4 @@ D:\USMP-2021-1\pro lab\PROYECTO FINAL\Main base\NARANJA\obj\Debug\net5.0\Razor\V
 D:\USMP-2021-1\pro lab\PROYECTO FINAL\Main base\NARANJA\obj\Debug\net5.0\Razor\Views\Reservas\CrearReserva.cshtml.g.cs
 D:\USMP-2021-1\pro lab\PROYECTO FINAL\Main base\NARANJA\bin\Debug\net5.0\EPPlus.dll
 D:\USMP-2021-1\pro lab\PROYECTO FINAL\Main base\NARANJA\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\USMP-2021-1\pro lab\PROYECTO FINAL\Main base\NARANJA\obj\Debug\net5.0\Razor\Views\Platos\Platos.cshtml.g.cs
