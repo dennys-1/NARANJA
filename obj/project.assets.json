@@ -7551,11 +7551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\NARANJA.csproj",
+      "projectUniqueName": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main login\\NARANJA\\NARANJA.csproj",
       "projectName": "NARANJA",
-      "projectPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\NARANJA.csproj",
+      "projectPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main login\\NARANJA\\NARANJA.csproj",
       "packagesPath": "C:\\Users\\Dennys\\.nuget\\packages\\",
-      "outputPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main base\\NARANJA\\obj\\",
+      "outputPath": "D:\\USMP-2021-1\\pro lab\\PROYECTO FINAL\\Main login\\NARANJA\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dennys\\AppData\\Roaming\\NuGet\\NuGet.Config"

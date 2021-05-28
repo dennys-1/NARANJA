@@ -31,7 +31,7 @@ namespace NARANJA.Controllers
         { 
            
 
-            var listreservas = _context.DataReservas.ToList();
+            var listreservas = _context.Reservas.ToList();
             ViewData["message"]="";
             return View(listreservas);
         }
@@ -52,7 +52,7 @@ namespace NARANJA.Controllers
         public IActionResult ExportarExcel()
 {
     string excelContentType = "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet";
-    var reservas = _context.DataReservas.AsNoTracking().ToList();
+    var reservas = _context.Reservas.AsNoTracking().ToList();
     using (var libro = new ExcelPackage())
     {
         var worksheet = libro.Workbook.Worksheets.Add("Reservas");

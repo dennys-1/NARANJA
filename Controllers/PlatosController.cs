@@ -27,7 +27,7 @@ namespace NARANJA.Controllers
 
         public IActionResult Platos()
         { 
-            var listplatos = _context.DataPlatos.ToList();
+            var listplatos = _context.Platos.ToList();
             ViewData["message"]="";
             return View(listplatos);
         }

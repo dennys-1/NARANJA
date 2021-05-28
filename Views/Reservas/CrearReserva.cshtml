@@ -6,14 +6,22 @@
     
 
 <form asp-controller="Reservas" asp-action="CrearReserva">
-     <label asp-for="fecha" class="control-label"></label>
-     <input asp-for="fecha" class="form-control" />
+    <label asp-for="n_personas" class="control-label"></label>
+     <input asp-for="n_personas"  class="form-control" />
 
-     <label asp-for="n_personas" class="control-label"></label>
-     <input asp-for="n_personas" class="form-control" />
 
+      <label asp-for="Telefono" class="control-label"></label>
+     <input asp-for="Telefono" type="text" class="form-control" />
+
+    
      <label asp-for="ocasion" class="control-label"></label>
-     <input asp-for="ocasion" class="form-control" />
+     <input asp-for="ocasion" type="text" class="form-control" />
+
+     <label asp-for="fecha" class="control-label"></label>
+     <input asp-for="fecha"  class="form-control" />
+     
+     <label asp-for="hora" class="control-label"></label>
+     <input asp-for="hora" type="time" class="form-control" />
 
     <div class="form-group">
         <button type="submit" class="btn btn-primary">Registrar</button> 

@@ -12,8 +12,8 @@ namespace NARANJA.Data
             : base(options)
         {
         }
-        public DbSet<NARANJA.Models.Reservas> DataReservas { get; set; }
-
-        public DbSet<NARANJA.Models.Platos> DataPlatos { get; set; }
+        public DbSet<NARANJA.Models.Reservas> Reservas {get; set;}
+        
+        public DbSet<NARANJA.Models.Platos> Platos { get; set; }
     }
 }

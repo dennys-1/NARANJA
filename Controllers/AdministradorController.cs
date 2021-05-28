@@ -36,7 +36,7 @@ namespace NARANJA.Controllers
         { 
            
 
-            var listreservas = _context.DataReservas.ToList();
+            var listreservas = _context.Reservas.ToList();
             ViewData["message"]="";
             return View(listreservas);
         }
