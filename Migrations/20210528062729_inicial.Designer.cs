@@ -10,7 +10,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace NARANJA.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20210528053244_inicial")]
+    [Migration("20210528062729_inicial")]
     partial class inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
